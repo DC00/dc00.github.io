@@ -5,6 +5,8 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
+  - title: "Projects"
+    url: /projects/
   - title: "Archives"
     url: /archives/
   - title: "GitHub"
