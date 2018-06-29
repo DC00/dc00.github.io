@@ -6,7 +6,7 @@ categories: music
 
 There are few places on the internet where wholesome people congregate for wholesome conversation, but I think I found a new one. Ever since the 24/7 lofi hiphop stream on YouTube shut down emotional teenagers looking for a creative outlet have wandered the internet, clicking on every chillwave video hoping to find a familiar hole of feelings in which to fall. The stream was up for a long time, and I remember seeing a bunch of positive comments in the chat. Tonight I found a lofi stream hosted by [the bootleg boy](https://www.youtube.com/channel/UC0fiLCwTmAukotCXYnqfj0A) which can hopefully replace the og stream. A short profile of the chat section:
 
-> "I'm back for another sleepless night and am gonna say what I always say...I'm always here from 12 to 3 for anyone that needs/would like to talk, if not then I'll just be reading my mangas with these beats as background music"
+> "I'm back for another sleepless night and am gonna say what I always say...I'm always here from 12 to 3am for anyone that needs/would like to talk, if not then I'll just be reading my mangas with these beats as background music"
 
 Wholesome
 
