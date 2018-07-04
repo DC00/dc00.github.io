@@ -16,14 +16,12 @@ We're all sad
 
 > "Wanna join the sad gang? Me and David are just a few who come back here just to be sad"
 
-More evidence for my future analysis of Sadbois piece.
+A growing number of people are happy with being sad
 
 > "The music is amazing, just a lot of sad in the chat to bond over it haha"
 
-Bonding over sadness is a core tenant of chillwave.
+Bonding over sadness is a core tenant of chillwave
 
 > "But I'd like to think I'd listen to this kinda music if I wasn't [sad] too"
 
 More stuff about video games, anime, and broken relationships. It is honestly so surprising that these strangers on the internet open up about their problems and look for advice in the chat of lofi hiphop streams. Surprising, but refreshingly innocent and kind.
-
-dcoo
