@@ -10,4 +10,4 @@ One example from Youtube is ElleOfTheMills. She recently [posted](https://www.yo
 
 Over on Barstool the topic of thick skin was discussed once again. The management at the company maintains that their special sauce is being edgy in today's mainstream news environment - edgy with objectively rude and crass insults in the name of views and clicks. One blogger, Nate, [explained](https://youtu.be/PQrosqG-J7g?t=10m14s) that if you can survive this environment it makes you "better."
 
-I think it is easy to say that people just need a thicker skin to deal with the negativity that apparently comes with social fame. I also think a lot of people that go into an on-camera role believe that the work will make them better. A better and more famous celebrity, but not a better person.
+I think it is easy to say that people just need a thicker skin to deal with the negativity that apparently comes with social fame. I also think a lot of people that go into an on-camera role believe that the work will make them better. A better and more famous celebrity, but probably not a better person.
