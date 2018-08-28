@@ -20,9 +20,11 @@ permalink:           pretty
 # Setup
 title:               Daniel Coo
 tagline:             Music and CS
-url:                 ""
+description:         Words about music and computer science
+url:                 danielcoo.xyz
 paginate:            1
-baseurl:             ""
+paginate_path:       /:num
+baseurl:             ''
 
 # Assets
 #
@@ -38,12 +40,11 @@ author:
   email:             danieljohncoo@gmail.com
 
 # Custom vars
-version:             0.0.1
-github:              https://github.com/DC00
-repo:              
+version:             1.0.0
+repository_url:      https://github.com/DC00/dc00.github.io
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
