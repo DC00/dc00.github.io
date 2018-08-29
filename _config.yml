@@ -25,6 +25,7 @@ url:                 danielcoo.xyz
 paginate:            1
 paginate_path:       /:num
 baseurl:             ''
+resume_url:          https://standardresume.co/danielcoo
 
 # Assets
 #
