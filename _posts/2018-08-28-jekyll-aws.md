@@ -154,7 +154,7 @@ Directions for setting up a redirect from `www.domain.com` to `domain.com`
 
 ## Conclusion
 
-I know I missed some troubleshooting steps, but most of what I ran into is in this guide. The ACM and CloudFront configuration is probably the most annoying part. Everything else is googleable. If you are interested in how all of this actually works read vasanthk's excellent guide on ![How the Web Works](https://github.com/vasanthk/how-web-works)
+I know I missed some troubleshooting steps, but most of what I ran into is in this guide. The ACM and CloudFront configuration is probably the most annoying part. Everything else is googleable. If you are interested in how all of this setup fits together read vasanthk's excellent guide on [How the Web Works](https://github.com/vasanthk/how-web-works)
 
 Thanks for reading
 
