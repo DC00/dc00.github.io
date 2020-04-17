@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>dcoo</title>
+ <link href="danielcoo.xyz/atom.xml" rel="self"/>
+ <link href="danielcoo.xyz/"/>
+ <updated>2020-04-16T23:05:45-04:00</updated>
+ <id>danielcoo.xyz</id>
+ <author>
+   <name>Daniel</name>
+   <email>danieljohncoo@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Two Sum</title>
+   <link href="danielcoo.xyz/code/2020/04/09/two-sum/"/>
+   <updated>2020-04-09T00:00:00-04:00</updated>
+   <id>danielcoo.xyz/code/2020/04/09/two-sum</id>
+   <content type="html">&lt;p&gt;I’m going to try and do leetcode problems on a consistent basis. Here’s one of the most common problems out there.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Given an array of integers, return indices of the two numbers such that they add up to a specific target.&lt;/p&gt;
+
+&lt;p&gt;You may assume that each input would have exactly one solution, and you may not use the same element twice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution With Dictionary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We have to find the indices of two unique numbers which add up to the target value. Start with a for loop and look for the &lt;em&gt;complement&lt;/em&gt; in the remaining list elements. Use &lt;strong&gt;&lt;em&gt;enumerate()&lt;/em&gt;&lt;/strong&gt; to be cool.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def two_sum(nums, target):
+	dic = {}
+	for i, num in enumerate(nums):
+		complement = target - num
+		if complement in dic:
+			return [dic[complement], i]
+		dic[complement] = i
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Map the complement to its index in the given array with a dictionary. Average lookup time would then be &lt;code class=&quot;highlighter-rouge&quot;&gt;O(1)&lt;/code&gt; and the outside look would run in &lt;code class=&quot;highlighter-rouge&quot;&gt;O(n)&lt;/code&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mental Health Part 1</title>
+   <link href="danielcoo.xyz/thoughts/2018/07/04/mental-health-part-1/"/>
+   <updated>2018-07-04T00:00:00-04:00</updated>
+   <id>danielcoo.xyz/thoughts/2018/07/04/mental-health-part-1</id>
+   <content type="html">&lt;p&gt;Fame is an expensive commodity these days. As foretold by &lt;a href=&quot;https://youtu.be/ZOBjLPfDBWc?t=2m11s&quot;&gt;Dave Chapelle&lt;/a&gt;, the environment which produces celebrities might break them down at the same time.&lt;/p&gt;
+
+&lt;p&gt;One example from Youtube is ElleOfTheMills. She recently &lt;a href=&quot;https://www.youtube.com/watch?v=WKKwgq9LRgA&amp;amp;t=3s&quot;&gt;posted&lt;/a&gt; about dealing with mental health issues regarding her accelerated rise to Youtube stardom. In the video, she explains how confusing it is to achieve her dream but feel unhappy at the same time.&lt;/p&gt;
+
+&lt;p&gt;Over on Barstool the topic of thick skin was discussed once again. The management at the company maintains that their special sauce is being edgy in today’s mainstream news environment - edgy with objectively rude and crass insults in the name of views and clicks. One blogger, Nate, &lt;a href=&quot;https://youtu.be/PQrosqG-J7g?t=10m14s&quot;&gt;explained&lt;/a&gt; that if you can survive this environment it makes you “better.”&lt;/p&gt;
+
+&lt;p&gt;I think it is easy to say that people just need a thicker skin to deal with the negativity that apparently comes with social fame. I also think a lot of people that go into an on-camera role believe that the work will make them better. A better and more famous celebrity, but probably not a better person.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Lofi Night</title>
+   <link href="danielcoo.xyz/music/2018/06/29/a-lofi-night/"/>
+   <updated>2018-06-29T00:00:00-04:00</updated>
+   <id>danielcoo.xyz/music/2018/06/29/a-lofi-night</id>
+   <content type="html">&lt;p&gt;There are few places on the internet where wholesome people congregate for wholesome conversation, but I think I found a new one. Ever since the 24/7 lofi hiphop stream on YouTube shut down emotional teenagers looking for a creative outlet have wandered the internet, clicking on every chillwave video hoping to find a familiar hole of feelings in which to fall. The stream was up for a long time, and I remember seeing a bunch of positive comments in the chat. Tonight I found a lofi stream hosted by &lt;a href=&quot;https://www.youtube.com/channel/UC0fiLCwTmAukotCXYnqfj0A&quot;&gt;the bootleg boy&lt;/a&gt; which can hopefully replace the og stream. A short profile of the chat section:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I’m back for another sleepless night and am gonna say what I always say…I’m always here from 12 to 3am for anyone that needs/would like to talk, if not then I’ll just be reading my mangas with these beats as background music”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Wholesome&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I don’t listen to this station because i’m sad”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We’re all sad&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Wanna join the sad gang? Me and David are just a few who come back here just to be sad”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A growing number of people are happy with being sad&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The music is amazing, just a lot of sad in the chat to bond over it haha”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bonding over sadness is a core tenant of chillwave&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“But I’d like to think I’d listen to this kinda music if I wasn’t [sad] too”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;More stuff about video games, anime, and broken relationships. It is honestly so surprising that these strangers on the internet open up about their problems and look for advice in the chat of lofi hiphop streams. Surprising, but refreshingly innocent and kind.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
