@@ -18,14 +18,15 @@
 permalink:           pretty
 
 # Setup
-title:               Daniel Coo
-tagline:             Music and CS
-description:         Words about music and computer science
+title:               dcoo
+tagline:             tech and music.
+description:         ''
 url:                 danielcoo.xyz
 paginate:            1
 paginate_path:       /:num
 baseurl:             ''
-resume_url:          https://standardresume.co/r/danielcoo
+twitter_url:         https://twitter.com/iiidcoo
+github_url:          https://github.com/DC00
 
 # Assets
 #
@@ -36,7 +37,7 @@ sass:
 
 # About/contact
 author:
-  name:              Daniel Coo
+  name:              Daniel
   url:               ""
   email:             danieljohncoo@gmail.com
 
