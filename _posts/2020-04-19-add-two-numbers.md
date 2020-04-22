@@ -94,17 +94,16 @@ def addTwoNumbers(self, l1, l2):
 And this solution can handle an arbitrary number of numbers as linked lists
 
 ```python
-class Solution:
-    def addTwoNumbers(self, l1, l2):
-        addends = l1, l2
-        dummy = end = ListNode(0)
-        carry = 0
-        while addends or carry:
-            carry += sum(a.val for a in addends)
-            addends = [a.next for a in addends if a.next]
-            end.next = end = ListNode(carry % 10)
-            carry /= 10
-        return dummy.next
+def addTwoNumbers(self, l1, l2):
+    addends = l1, l2
+    dummy = end = ListNode(0)
+    carry = 0
+    while addends or carry:
+        carry += sum(a.val for a in addends)
+        addends = [a.next for a in addends if a.next]
+        end.next = end = ListNode(carry % 10)
+        carry /= 10
+    return dummy.next
 ```
 
 All these solutions run in `O(n)` where `n` is the length of the longest number.
