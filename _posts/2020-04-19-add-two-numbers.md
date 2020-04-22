@@ -91,7 +91,7 @@ def addTwoNumbers(self, l1, l2):
     return dummy.next
 ```
 
-And this solution can handle an arbitrary number of numbers as linked lists which is dope
+And this solution can handle an arbitrary number of numbers as linked lists
 
 ```python
 class Solution:
